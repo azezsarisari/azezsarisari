@@ -46,10 +46,12 @@ Currently working as an **AI Engineer at LowRisk ME**, with experience developin
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-purple?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-orange?style=flat-square)
 
 ### Backend & Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,11 +62,43 @@ Currently working as an **AI Engineer at LowRisk ME**, with experience developin
 
 ## Featured Projects
 
+### [Graduation Project | AI-Powered Academic Advisor](https://github.com/azezsarisari/AI-Academic-Advisor-Chatbot)
+
+**Bachelor's Graduation Project — Artificial Intelligence & Robotics**  
+**Al-Balqa Applied University | 2026**
+
+My university graduation project, developed collaboratively with two fellow students as part of our Bachelor's degree in Artificial Intelligence and Robotics.
+
+We designed and developed **Smart University Assistant**, an intelligent Arabic-language academic advising system that helps university students understand course information, evaluate academic requirements, and make informed semester registration decisions.
+
+The system integrates **Hybrid Retrieval-Augmented Generation (RAG)**, multilingual semantic retrieval, and deterministic rule-based decision making to provide explainable academic recommendations.
+
+**Key Features:**
+- Multilingual semantic retrieval using E5 embeddings and FAISS
+- Exact, fuzzy, and semantic course identification
+- Rule-based validation of prerequisites and academic requirements
+- Controlled natural language generation using Qwen2.5-7B-Instruct
+- Automated evaluation and benchmarking framework
+- Web-based interface developed with Flask
+
+**Tech Stack:** Python, Flask, FAISS, Sentence Transformers, Multilingual E5, Qwen2.5-7B, NLP, Hybrid RAG
+
+**Graduation Project Team:**
+- Abdalaziz Riyad Sari
+- [Ibnu Abi Hujayr (AlmugheeratuAws)](https://github.com/AlmugheeratuAws)
+- Hassan F. Ghuri
+
+**[View Graduation Project](https://github.com/azezsarisari/AI-Academic-Advisor-Chatbot)**
+
+---
+
 ### [AI Customer Support Agent](https://github.com/azezsarisari/ai-customer-support-agent)
 
 An AI-powered customer support system featuring RAG, tool-based workflows, persistent conversation memory, security guardrails, and human escalation.
 
 **Stack:** Python, LangGraph, FastAPI, FAISS, Qwen2.5-7B, Docker
+
+---
 
 ### [Fraud Detection System](https://github.com/azezsarisari/fraud-detection-system)
 
@@ -72,23 +106,21 @@ End-to-end machine learning system for detecting fraudulent transactions, includ
 
 **Stack:** Python, Random Forest, XGBoost, SHAP, FastAPI, Streamlit
 
+---
+
 ### [Company RAG Chatbot](https://github.com/azezsarisari/company-rag-chatbot)
 
 Document-aware company assistant with semantic retrieval, intent routing, and an appointment-booking system.
 
 **Stack:** Python, FAISS, Sentence Transformers, Qwen, SQLite
 
+---
+
 ### [AI Basketball Analyst](https://github.com/azezsarisari/ai-basketball-analyst)
 
 Computer vision application for basketball player tracking, team classification, possession analysis, shot detection, and match statistics.
 
 **Stack:** YOLO11, OpenCV, BoT-SORT, ReID, Streamlit
-
-### AI-Powered Academic Advisor
-
-Graduation project: an Arabic-language academic advising assistant combining multilingual semantic retrieval with rule-based academic constraints.
-
-**Stack:** Python, Flask, FAISS, NLP, Hybrid RAG
 
 ---
 
@@ -100,6 +132,14 @@ Graduation project: an Arabic-language academic advising assistant combining mul
 | AI Engineering Intern | Sibaway – Deep Brain | Feb 2026 – Jun 2026 |
 | Generative AI Intern | Green Circle | Sep 2025 – Dec 2025 |
 | AI Intern | LowRisk ME | Apr 2025 – Jul 2025 |
+
+---
+
+## Education
+
+**Bachelor of Science in Artificial Intelligence and Robotics**
+
+Al-Balqa Applied University — Graduated 2026
 
 ---
 
@@ -117,9 +157,10 @@ Graduation project: an Arabic-language academic advising assistant combining mul
 
 I'm interested in building reliable AI applications and collaborating on machine learning, generative AI, and intelligent software systems.
 
-**Email:** azezsarisari@gmail.com
+**Email:** [azezsarisari@gmail.com](mailto:azezsarisari@gmail.com)
 
 **LinkedIn:** [Abdalaziz Sari](https://www.linkedin.com/in/abdalaziz-sari-b157b7306/)
 
-**Location:** Amman, Jordan
+**GitHub:** [github.com/azezsarisari](https://github.com/azezsarisari)
 
+**Location:** Amman, Jordan
